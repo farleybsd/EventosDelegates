@@ -1,0 +1,15 @@
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\bin\Debug\net6.0\DelegateNet.exe
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\bin\Debug\net6.0\DelegateNet.deps.json
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\bin\Debug\net6.0\DelegateNet.runtimeconfig.json
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\bin\Debug\net6.0\DelegateNet.dll
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\bin\Debug\net6.0\DelegateNet.pdb
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.csproj.AssemblyReference.cache
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.AssemblyInfoInputs.cache
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.AssemblyInfo.cs
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.csproj.CoreCompileInputs.cache
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.dll
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\refint\DelegateNet.dll
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.pdb
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\DelegateNet.genruntimeconfig.cache
+C:\MyGit\EventosDelegates\DelegateNet\DelegateNet\obj\Debug\net6.0\ref\DelegateNet.dll
